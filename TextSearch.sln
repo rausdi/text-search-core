@@ -1,0 +1,29 @@
+
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Quality", "Quality\Quality.csproj", "{ABCD6AC7-A470-410A-94E3-AD031F4F5344}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TestLibrary", "TestLibrary\TestLibrary.csproj", "{B82375F1-3D6E-486C-BC0F-59646ED1A1DB}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TextSearchApp", "TextSearchApp\TextSearchApp.csproj", "{320C2E06-9367-4326-BC70-7FE7E2CC8D20}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{ABCD6AC7-A470-410A-94E3-AD031F4F5344}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{ABCD6AC7-A470-410A-94E3-AD031F4F5344}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{ABCD6AC7-A470-410A-94E3-AD031F4F5344}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{ABCD6AC7-A470-410A-94E3-AD031F4F5344}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B82375F1-3D6E-486C-BC0F-59646ED1A1DB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B82375F1-3D6E-486C-BC0F-59646ED1A1DB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B82375F1-3D6E-486C-BC0F-59646ED1A1DB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B82375F1-3D6E-486C-BC0F-59646ED1A1DB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{320C2E06-9367-4326-BC70-7FE7E2CC8D20}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{320C2E06-9367-4326-BC70-7FE7E2CC8D20}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{320C2E06-9367-4326-BC70-7FE7E2CC8D20}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{320C2E06-9367-4326-BC70-7FE7E2CC8D20}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
