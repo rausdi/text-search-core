@@ -78,7 +78,6 @@ namespace Quality
                     }
                 }
             }
-            //string s = GetPattern(0, 0);
         }
 
         public string GetPattern(int startPos, int endPos) {
