@@ -9,7 +9,7 @@ namespace Quality
     public class TextSearch
     {
         public string path = Path.GetFullPath("resource/text.txt");
-        string text;
+        public string text;
         List<string> wordsList = new List<string>();
         public Dictionary<string, int> fragments = new Dictionary<string, int>();
         public TextSearch() {
@@ -17,6 +17,11 @@ namespace Quality
             text = Regex.Replace(text, @"[^\w\s]", "");
             //text = text.Replace(Environment.NewLine, " ");
             //text = "я иду гулять с я иду гулять в я иду гулять на я иду гулять с";
+            wordsList = text.Split(' ').ToList();
+        }
+
+        public TextSearch(string text) {
+            this.text = text;
             wordsList = text.Split(' ').ToList();
         }
 
@@ -36,7 +41,7 @@ namespace Quality
             while (wordsList.Count - j >= (j - i) + 1) {
                 int counter = 1;
                 bool hasMatch = false;
-                string pattern = getPattern(i, j);
+                string pattern = GetPattern(i, j);
                 int m = j + 1;
                 int k = m + (j - i);
                 if (fragments.ContainsKey(pattern)) {
@@ -45,7 +50,7 @@ namespace Quality
                     continue;
                 }
                 while (k < wordsList.Count) {
-                    string match = getPattern(m, k);
+                    string match = GetPattern(m, k);
                     if (pattern == match) {
                         counter++;
                         hasMatch = true;
@@ -73,20 +78,15 @@ namespace Quality
                     }
                 }
             }
+            //string s = GetPattern(0, 0);
         }
 
-        public string getPattern(int startPos, int endPos) {
+        public string GetPattern(int startPos, int endPos) {
             List<string> patternList = new List<string>();
             for (int i = startPos; i <= endPos; i++) {
                 patternList.Add(wordsList[i]);
             }
             return string.Join(" ", patternList.ToArray());
-        }
-
-        public void removeMatchedFragment(int startPos, int endPos) {
-            for (int i = startPos; i <= endPos; i ++) {
-                wordsList.RemoveAt(startPos);
-            }
         }
 
         public void OutputFragments() {
