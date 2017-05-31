@@ -9,7 +9,7 @@ namespace TextSearchApp
         {
             TextSearch search = new TextSearch();
             search.Search();
-            search.OutputFragmentsAmountList();
+            search.OutputFragments();
         }
     }
 }
