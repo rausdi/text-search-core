@@ -22,9 +22,10 @@
 /Users/romanfedorov/Documents/diff/STUDY/4 курс/УКПО/TextSearch/TestLibrary/obj/Debug/netcoreapp1.1/TestLibrary.dll
 /Users/romanfedorov/Documents/diff/STUDY/4 курс/УКПО/TextSearch/TestLibrary/obj/Debug/netcoreapp1.1/TestLibrary.pdb
 /Users/romanfedorov/Documents/diff/STUDY/4 курс/УКПО/TextSearch/TestLibrary/bin/Debug/netcoreapp1.1/xunit.runner.visualstudio.dotnetcore.testadapter.dll
-/Users/romanfedorov/Documents/diff/STUDY/4 курс/УКПО/TextSearch/TestLibrary/bin/Debug/netcoreapp1.1/xunit.runner.utility.netstandard15.dll
-/Users/romanfedorov/Documents/diff/STUDY/4 курс/УКПО/TextSearch/TestLibrary/bin/Debug/netcoreapp1.1/xunit.runner.reporters.netstandard15.dll
 /Users/romanfedorov/Documents/diff/STUDY/4 курс/УКПО/TextSearch/TestLibrary/bin/Debug/netcoreapp1.1/TestLibrary.dll
 /Users/romanfedorov/Documents/diff/STUDY/4 курс/УКПО/TextSearch/TestLibrary/bin/Debug/netcoreapp1.1/TestLibrary.pdb
 /Users/romanfedorov/Documents/diff/STUDY/4 курс/УКПО/TextSearch/TestLibrary/bin/Debug/netcoreapp1.1/Quality.dll
 /Users/romanfedorov/Documents/diff/STUDY/4 курс/УКПО/TextSearch/TestLibrary/bin/Debug/netcoreapp1.1/Quality.pdb
+/Users/romanfedorov/Documents/diff/STUDY/4 курс/УКПО/TextSearch/TestLibrary/bin/Debug/netcoreapp1.1/xunit.runner.reporters.netcoreapp10.dll
+/Users/romanfedorov/Documents/diff/STUDY/4 курс/УКПО/TextSearch/TestLibrary/bin/Debug/netcoreapp1.1/xunit.runner.utility.netcoreapp10.dll
+/Users/romanfedorov/Documents/diff/STUDY/4 курс/УКПО/TextSearch/TestLibrary/obj/Debug/netcoreapp1.1/TestLibrary.AssemblyInfoInputs.cache
