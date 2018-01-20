@@ -9,9 +9,8 @@
 /Users/romanfedorov/Documents/diff/STUDY/4 курс/УКПО/TextSearch/Quality/bin/Debug/netstandard1.4/Quality.deps.json
 /Users/romanfedorov/Documents/diff/STUDY/4 курс/УКПО/TextSearch/Quality/bin/Debug/netstandard1.4/Quality.dll
 /Users/romanfedorov/Documents/diff/STUDY/4 курс/УКПО/TextSearch/Quality/bin/Debug/netstandard1.4/Quality.pdb
-/Users/romanfedorov/Documents/diff/STUDY/4 курс/УКПО/TextSearch/Quality/obj/Debug/netstandard1.4/Quality.csprojResolveAssemblyReference.cache
 /Users/romanfedorov/Documents/diff/STUDY/4 курс/УКПО/TextSearch/Quality/obj/Debug/netstandard1.4/Quality.csproj.CoreCompileInputs.cache
+/Users/romanfedorov/Documents/diff/STUDY/4 курс/УКПО/TextSearch/Quality/obj/Debug/netstandard1.4/Quality.AssemblyInfoInputs.cache
 /Users/romanfedorov/Documents/diff/STUDY/4 курс/УКПО/TextSearch/Quality/obj/Debug/netstandard1.4/Quality.AssemblyInfo.cs
 /Users/romanfedorov/Documents/diff/STUDY/4 курс/УКПО/TextSearch/Quality/obj/Debug/netstandard1.4/Quality.dll
 /Users/romanfedorov/Documents/diff/STUDY/4 курс/УКПО/TextSearch/Quality/obj/Debug/netstandard1.4/Quality.pdb
-/Users/romanfedorov/Documents/diff/STUDY/4 курс/УКПО/TextSearch/Quality/obj/Debug/netstandard1.4/Quality.AssemblyInfoInputs.cache

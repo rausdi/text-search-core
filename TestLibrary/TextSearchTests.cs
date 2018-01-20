@@ -28,13 +28,6 @@ namespace TestLibrary
         {
             Assert.Throws<ArgumentException>(() => _search.LoadText(""));
         }
-
-        [Fact]
-        public void IsFileNotFound()
-        {
-            string startsWith = "Could not find file";
-            Assert.StartsWith(startsWith, _search.LoadText("path/text.txt"));
-        }
     }
 
     public class TextSearch_Search
@@ -86,7 +79,7 @@ namespace TestLibrary
         [Fact]
         public void ReturnedTypeIsString()
         {
-            Assert.IsType(typeof(String), _search.GetPattern(1, 0));
+            Assert.IsType<string>(_search.GetPattern(1, 0));
         }
 
         [Fact]

@@ -13,4 +13,9 @@
   <ItemGroup>
     <ProjectReference Include="..\Quality\Quality.csproj" />
   </ItemGroup>
+  <ItemGroup>
+    <None Include="..\TextSearchApp\resource\text.txt">
+      <Link>resource\text.txt</Link>
+    </None>
+  </ItemGroup>
 </Project>
