@@ -1,8 +1,8 @@
 ﻿<Properties StartupConfiguration="{320C2E06-9367-4326-BC70-7FE7E2CC8D20}|Default">
   <MonoDevelop.Ide.Workbench ActiveDocument="TextSearch Status">
     <Files>
-      <File FileName="Quality/TextSearch.cs" Line="17" Column="35" />
-      <File FileName="TestLibrary/TextSearchTests.cs" Line="1" Column="1" />
+      <File FileName="Quality/TextSearch.cs" Line="27" Column="44" />
+      <File FileName="TestLibrary/TextSearchTests.cs" Line="9" Column="34" />
       <File FileName="TextSearchApp/Program.cs" Line="13" Column="10" />
       <File FileName="TextSearch Status" />
     </Files>
@@ -12,6 +12,7 @@
           <Node name="TextSearch" expanded="True" selected="True">
             <Node name="TestLibrary" expanded="True">
               <Node name="TestLibrary" expanded="True">
+                <Node name="TextSearch_Files" expanded="True" />
                 <Node name="TextSearch_Search" expanded="True" />
               </Node>
             </Node>
