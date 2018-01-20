@@ -8,16 +8,31 @@ namespace Quality
 {
     public class TextSearch
     {
+        public string path = Path.GetFullPath("resource/text.txt");
         public string text;
         List<string> wordsList = new List<string>();
         public Dictionary<string, int> fragments = new Dictionary<string, int>();
         public TextSearch() {
-            
+            text = LoadText(path);
+            text = Regex.Replace(text, @"[^\w\s]", "");
+            wordsList = text.Split(' ').ToList();
         }
 
         public TextSearch(string text) {
             this.text = text;
             wordsList = text.Split(' ').ToList();
+        }
+
+        public string LoadText(string path)
+        {
+            try
+            {
+                return File.ReadAllText(path);
+            }
+            catch (FileNotFoundException e)
+            {
+                return e.Message;
+            }
         }
 
         public void Search() {

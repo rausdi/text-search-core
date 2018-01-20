@@ -7,7 +7,7 @@ namespace TextSearchApp
     {
         static void Main(string[] args)
         {
-            TextSearch search = new TextSearch("я иду гулять с я иду гулять в я иду гулять на я иду гулять с");
+            TextSearch search = new TextSearch();
             search.Search();
             search.OutputFragments();
         }
