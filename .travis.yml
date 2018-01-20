@@ -1,0 +1,9 @@
+{
+	language: "csharp",
+	solution: "TextSearch.sln",
+	mono: "none",
+	dotnet: "1.1",
+	script: {
+		"dotnet restore"
+	}
+}

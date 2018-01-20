@@ -1,10 +1,9 @@
 ﻿<Properties StartupConfiguration="{320C2E06-9367-4326-BC70-7FE7E2CC8D20}|Default">
-  <MonoDevelop.Ide.Workbench ActiveDocument="TextSearch Status">
+  <MonoDevelop.Ide.Workbench ActiveDocument="TestLibrary/TextSearchTests.cs">
     <Files>
       <File FileName="Quality/TextSearch.cs" Line="27" Column="44" />
-      <File FileName="TestLibrary/TextSearchTests.cs" Line="9" Column="34" />
+      <File FileName="TestLibrary/TextSearchTests.cs" Line="21" Column="43" />
       <File FileName="TextSearchApp/Program.cs" Line="13" Column="10" />
-      <File FileName="TextSearch Status" />
     </Files>
     <Pads>
       <Pad Id="MonoDevelop.UnitTesting.TestPad">
