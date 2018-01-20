@@ -1,0 +1,31 @@
+﻿<Properties StartupConfiguration="{320C2E06-9367-4326-BC70-7FE7E2CC8D20}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="TextSearch Status">
+    <Files>
+      <File FileName="Quality/TextSearch.cs" Line="15" Column="30" />
+      <File FileName="TestLibrary/TextSearchTests.cs" Line="1" Column="1" />
+      <File FileName="TextSearchApp/Program.cs" Line="1" Column="1" />
+      <File FileName="TextSearch Status" />
+    </Files>
+    <Pads>
+      <Pad Id="MonoDevelop.UnitTesting.TestPad">
+        <State name="__root__">
+          <Node name="TextSearch" expanded="True" selected="True">
+            <Node name="TestLibrary" expanded="True">
+              <Node name="TestLibrary" expanded="True">
+                <Node name="TextSearch_Search" expanded="True" />
+              </Node>
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.TestLibrary PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.ItemProperties.TextSearchApp PreferredExecutionTarget="MonoDevelop.Default" />
+  <MultiItemStartupConfigurations />
+</Properties>
