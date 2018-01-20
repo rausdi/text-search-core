@@ -1,0 +1,16 @@
+/Users/romanfedorov/Documents/diff/STUDY/4 курс/УКПО/TextSearch/TestLibrary/bin/Debug/netcoreapp2.0/xunit.runner.visualstudio.dotnetcore.testadapter.dll
+/Users/romanfedorov/Documents/diff/STUDY/4 курс/УКПО/TextSearch/TestLibrary/bin/Debug/netcoreapp2.0/xunit.runner.reporters.netcoreapp10.dll
+/Users/romanfedorov/Documents/diff/STUDY/4 курс/УКПО/TextSearch/TestLibrary/bin/Debug/netcoreapp2.0/xunit.runner.utility.netcoreapp10.dll
+/Users/romanfedorov/Documents/diff/STUDY/4 курс/УКПО/TextSearch/TestLibrary/bin/Debug/netcoreapp2.0/TestLibrary.deps.json
+/Users/romanfedorov/Documents/diff/STUDY/4 курс/УКПО/TextSearch/TestLibrary/bin/Debug/netcoreapp2.0/TestLibrary.runtimeconfig.json
+/Users/romanfedorov/Documents/diff/STUDY/4 курс/УКПО/TextSearch/TestLibrary/bin/Debug/netcoreapp2.0/TestLibrary.runtimeconfig.dev.json
+/Users/romanfedorov/Documents/diff/STUDY/4 курс/УКПО/TextSearch/TestLibrary/bin/Debug/netcoreapp2.0/TestLibrary.dll
+/Users/romanfedorov/Documents/diff/STUDY/4 курс/УКПО/TextSearch/TestLibrary/bin/Debug/netcoreapp2.0/TestLibrary.pdb
+/Users/romanfedorov/Documents/diff/STUDY/4 курс/УКПО/TextSearch/TestLibrary/bin/Debug/netcoreapp2.0/Quality.dll
+/Users/romanfedorov/Documents/diff/STUDY/4 курс/УКПО/TextSearch/TestLibrary/bin/Debug/netcoreapp2.0/Quality.pdb
+/Users/romanfedorov/Documents/diff/STUDY/4 курс/УКПО/TextSearch/TestLibrary/obj/Debug/netcoreapp2.0/TestLibrary.csprojResolveAssemblyReference.cache
+/Users/romanfedorov/Documents/diff/STUDY/4 курс/УКПО/TextSearch/TestLibrary/obj/Debug/netcoreapp2.0/TestLibrary.csproj.CoreCompileInputs.cache
+/Users/romanfedorov/Documents/diff/STUDY/4 курс/УКПО/TextSearch/TestLibrary/obj/Debug/netcoreapp2.0/TestLibrary.AssemblyInfoInputs.cache
+/Users/romanfedorov/Documents/diff/STUDY/4 курс/УКПО/TextSearch/TestLibrary/obj/Debug/netcoreapp2.0/TestLibrary.AssemblyInfo.cs
+/Users/romanfedorov/Documents/diff/STUDY/4 курс/УКПО/TextSearch/TestLibrary/obj/Debug/netcoreapp2.0/TestLibrary.dll
+/Users/romanfedorov/Documents/diff/STUDY/4 курс/УКПО/TextSearch/TestLibrary/obj/Debug/netcoreapp2.0/TestLibrary.pdb

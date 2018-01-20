@@ -86,7 +86,7 @@ namespace TestLibrary
         [Fact]
         public void ReturnedTypeIsString()
         {
-            Assert.IsType(typeof(string), _search.GetPattern(1, 0));
+            Assert.IsType(typeof(String), _search.GetPattern(1, 0));
         }
 
         [Fact]

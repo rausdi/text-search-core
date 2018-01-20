@@ -1685,7 +1685,7 @@
       },
       "TestLibrary/1.0.0": {
         "type": "project",
-        "framework": ".NETCoreApp,Version=v1.1",
+        "framework": ".NETCoreApp,Version=v2.0",
         "dependencies": {
           "Microsoft.NET.Test.Sdk": "15.5.0",
           "Quality": "1.0.0",
@@ -3588,7 +3588,7 @@
       },
       "TestLibrary/1.0.0": {
         "type": "project",
-        "framework": ".NETCoreApp,Version=v1.1",
+        "framework": ".NETCoreApp,Version=v2.0",
         "dependencies": {
           "Microsoft.NET.Test.Sdk": "15.5.0",
           "Quality": "1.0.0",
@@ -5739,7 +5739,7 @@
       },
       "TestLibrary/1.0.0": {
         "type": "project",
-        "framework": ".NETCoreApp,Version=v1.1",
+        "framework": ".NETCoreApp,Version=v2.0",
         "dependencies": {
           "Microsoft.NET.Test.Sdk": "15.5.0",
           "Quality": "1.0.0",
@@ -7890,7 +7890,7 @@
       },
       "TestLibrary/1.0.0": {
         "type": "project",
-        "framework": ".NETCoreApp,Version=v1.1",
+        "framework": ".NETCoreApp,Version=v2.0",
         "dependencies": {
           "Microsoft.NET.Test.Sdk": "15.5.0",
           "Quality": "1.0.0",
